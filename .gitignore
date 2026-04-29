@@ -1,0 +1,16 @@
+# Ignore uploads (user files)
+uploads/
+
+# Ignore dataset (large files)
+dataset/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
